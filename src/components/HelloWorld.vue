@@ -12,7 +12,7 @@ const count = ref(0)
   <h1>{{ msg }}</h1>
 
   <div class="card">
-    <h2>Welcome to my learning hub</h2>
+    <h2>Welcome to my learning hub site</h2>
     <h3>Its me Adil</h3>
   </div>
 
